@@ -1,0 +1,40 @@
+@media only screen and (max-width: 425px) {
+    .nav-container{
+        flex-direction:column;
+    }
+    .menu-list{
+        margin-top:60px;
+        flex-direction: column;
+        gap: 30px;
+    }
+    .follow-container{
+        margin-top: 30px;
+    }
+    .banner-section{
+        flex-direction: column;
+        
+        
+    }
+    .play-section{
+        width: auto;
+    }
+    .play-description{
+        text-align: center;
+    }
+    .know-section{
+        background: none;
+       
+    }
+    .know-description{
+        text-align: left;
+        width: 50%;
+    }
+    .know-div{
+        flex-direction: column;
+        margin-left: -250px;
+    }
+    .know-img{
+        width: 50%;
+    }
+
+  }
